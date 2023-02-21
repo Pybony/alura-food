@@ -1,0 +1,3 @@
+[submodule "alura-food-pagamentos"]
+	path = alura-food-pagamentos
+	url = https://github.com/Pybony/alura-food-pagamentos
